@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghziDE6Rm8hAh/6Inhop6yUvwq9arVwC1+nwpZcBkB2Y+hCHsMLCH93JgbsNEhHs+CeACNuROFGHAIKL1TIDQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GGPC\\Desktop\\SeleniumAssessment\\SeleniumTask2\\SeleniumTask2\\SeleniumTask2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\selenium.support\\4.9.1\\selenium.support.4.9.1.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.9000\\selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQ2dqeOWUWUaK6KCV0+RVxgRYg4gQDEvKRHoe5GAH3ZryAGcRWZXpFfLHUjFnsrqr1wF57QRoEQe28Kk6CdKSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GGPC\\Desktop\\SeleniumAssessment\\SeleniumTask1\\SeleniumTask1\\SeleniumTask1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GGPC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\selenium.support\\4.9.1\\selenium.support.4.9.1.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.9000\\selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512",
+    "C:\\Users\\GGPC\\.nuget\\packages\\webdriverchromedriver\\2.10.0\\webdriverchromedriver.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
